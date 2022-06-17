@@ -1,0 +1,11 @@
+.photoProfile {
+    background: url('../../../public/photoProfile.jpg');
+    background-position: top center;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+}
+
+.avaAndDescription {
+    padding: 5px;
+}

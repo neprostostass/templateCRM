@@ -1,0 +1,14 @@
+.item img {
+    padding-top: 5px;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+
+.item p {
+    margin: 0;
+}
+
+.likes {
+    color: rgb(112, 131, 218);
+}

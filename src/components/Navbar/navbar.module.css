@@ -1,0 +1,22 @@
+.nav {
+    background-color:rgba(238, 232, 232, 0.527);
+}
+
+.item {
+    padding: 5px;
+}
+
+.item > a {
+    color: #1C6C9E;
+    font-weight: 700;
+    text-decoration: unset;
+    font-size: 20px;
+}
+
+.item > a.active {
+    background: -webkit-linear-gradient(rgb(83, 189, 73), #1C6C9E);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-decoration: unset;
+    font-weight: 700;
+}

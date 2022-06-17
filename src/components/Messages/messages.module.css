@@ -1,0 +1,18 @@
+.messages {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+}
+
+.MyButton {
+    margin-bottom: 10px;
+}
+
+.Peoples {
+    width: 100%;
+    max-width: 200px;
+    border-right: 2px solid white;
+}
+
+.Texts {
+    padding-left: 10px;
+}
